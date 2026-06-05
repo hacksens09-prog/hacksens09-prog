@@ -31,6 +31,6 @@ Je privilégie les technologies légères, performantes et respectueuses de la v
 Je développe en public et je cherche à échanger avec d'autres esprits libres. Si tu as des idées, des besoins non résolus, ou si tu veux juste parler tech et éthique numérique, connecte-toi.
 
 - 💡 **Proposer une idée / Brainstormer** : Ouvre une "Discussion" dans ce dépôt !
-- 📧 **Contact direct** : [?] *(Remplace par ton vrai email)*
+- 📧 **Contact direct** : [?] 
 ---
 *« Le futur appartient à ceux qui codent leur propre réalité. »* 🏴‍☠️💻
